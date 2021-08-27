@@ -1,5 +1,5 @@
 {
-  "name": "daybyday1",
+  "name": "daybyday12",
   "version": "1.0.2",
   "description": "> TODO: description",
   "author": "chenliwen123 <1410762621@qq.com>",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "cac74d1dad6be1ec331382cb3405977081a4b3d3"
+  "gitHead": "dfc6a845e460f471b81c5678b00972f9466db612"
 }
