@@ -3,5 +3,5 @@
 module.exports = daybyday;
 
 function daybyday() {
-    // TODO
+    console.log('daybyday');
 }
